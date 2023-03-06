@@ -1,1 +1,3 @@
-# Use Raact + Vite
+# Digital Business Card
+
+- Use React + Vite
